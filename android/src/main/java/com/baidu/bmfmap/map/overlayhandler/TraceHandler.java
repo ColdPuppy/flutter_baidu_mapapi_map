@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.bmfmap.map.overlayhandler;
+package com.baidu.bmfmap.map.overlayhandler;
 
 import android.os.Bundle;
 import android.text.TextUtils;
