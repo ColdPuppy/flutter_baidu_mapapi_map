@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_baidu_mapapi_map'
-  s.version          = '3.1.0'
+  s.version          = '3.2.0'
   s.summary          = 'The basic map of Flutter plugin for BaiDuMap.'
   s.description      = <<-DESC
   The basic map of Flutter plugin for BaiDuMap.
