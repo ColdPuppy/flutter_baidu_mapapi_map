@@ -17,6 +17,9 @@ NS_ASSUME_NONNULL_BEGIN
 /// flutter层mark的唯一id(用于区别哪个marker)
 @property (nonatomic, copy) NSString *Id;
 
+///widget
+@property (nonatomic, strong) id _Nullable widget;
+
 /// 标题
 @property (nonatomic, copy) NSString *title;
 

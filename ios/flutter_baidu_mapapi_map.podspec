@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'flutter_baidu_mapapi_base'
-  s.dependency 'BaiduMapKit/Map','6.5.1'
+  s.dependency 'BaiduMapKit/Map','6.5.3'
   s.platform = :ios, '8.0'
   s.static_framework = true
 
